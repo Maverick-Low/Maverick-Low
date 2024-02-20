@@ -1,5 +1,5 @@
 
-👋 **Hi there! I'm Maverick**
+### 👋 Hi, I'm Maverick
 
 An aspiring front-end developer looking to get my foot into the industry. 
 
