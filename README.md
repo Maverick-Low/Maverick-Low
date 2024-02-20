@@ -1,16 +1,17 @@
-### Hi there 👋
 
-<!--
-**Maverick-Low/Maverick-Low** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 **Hi there! I'm Maverick**
 
-Here are some ideas to get you started:
+An aspiring front-end developer looking to get my foot into the industry. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+When I'm not coding, you can find me at the local climbing centre or learning about UI design
+
+🟢 **Status**: Working on React projects
+
+## 🚀 Tech Stack
+#### 🌐 Frontend: `React` `HTML` `CSS`
+#### 🖧 Backend: `Node.js` `Firebase Auth`
+#### ✍️ Others: `Figma` `Spline`
+
+## 📫 Connect with Me
+[LinkedIn](https://www.linkedin.com/in/maverick-low-686a5b234/)
+
