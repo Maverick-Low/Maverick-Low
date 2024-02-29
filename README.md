@@ -5,7 +5,7 @@ An aspiring front-end developer looking to get my foot into the industry.
 
 When I'm not coding, you can find me at the local climbing centre or learning about UI design
 
-🟢 **Status**: Learning Full-Stack development
+🟢 **Status**: Learning Full-Stack development and React
 
 ## 🚀 Tech Stack
 #### Languages 👨‍💻: `Python` `JavaScript` `C` `Java`
