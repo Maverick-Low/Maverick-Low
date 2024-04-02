@@ -1,11 +1,9 @@
 
 ### 👋 Hi, I'm Maverick
 
-An aspiring front-end developer looking to get my foot into the industry. 
-
-When I'm not coding, you can find me at the local climbing centre or learning about UI design
-
-🟢 **Status**: Learning Full-Stack development and React
+When I'm not working you can find me at the local climbing centre or learning about UI design
+,
+🟢 **Status**: Working as an Integration Specialist at FasterPay
 
 ## 🚀 Tech Stack
 #### Languages 👨‍💻: `Python` `JavaScript` `C` `Java`
