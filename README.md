@@ -2,7 +2,8 @@
 ### 👋 Hi, I'm Maverick
 
 When I'm not working you can find me at the local climbing centre or learning about UI design
-,
+
+
 🟢 **Status**: Working as an Integration Specialist at FasterPay
 
 ## 🚀 Tech Stack
