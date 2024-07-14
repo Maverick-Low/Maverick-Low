@@ -1,7 +1,7 @@
 
 ### 👋 Hi, I'm Maverick
 
-When I'm not working you can find me at the local climbing centre or learning about UI design
+When I'm not working you can find me at the local climbing centre or developing my skills with new courses or projects.
 
 
 🟢 **Status**: Working as an Integration Specialist at FasterPay
