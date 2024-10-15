@@ -4,12 +4,12 @@
 When I'm not working you can find me at the local climbing centre or developing my skills with new courses or projects.
 
 
-🟢 **Status**: Working as an Integration Specialist at FasterPay
+🟢 **Status**: Software Engineer @Pharmica
 
 ## 🚀 Tech Stack
-#### Languages 👨‍💻: `Python` `JavaScript` `C` `Java`
-#### Frontend 🌐: `React` 
-#### Backend 🖧: `Node.js` `Firebase Auth`
+#### Languages 👨‍💻: `Python` `JavaScript` `C` `Java` `C#`
+#### Frontend 🌐: `React` `HTMX` 
+#### Backend 🖧: `Node.js` `Firebase Auth` `.NET`
 #### Design ✍️: `Figma` `Spline`
 
 ## 📫 Connect with Me
